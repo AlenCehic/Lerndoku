@@ -18,7 +18,7 @@
 
 ### Web
 
-## Arbeitsbuch Firmen IT-Planung
+### Arbeitsbuch Firmen IT-Planung
 
 ## 2. Lehrjahr
 
